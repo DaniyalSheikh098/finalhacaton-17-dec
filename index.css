@@ -1,0 +1,19 @@
+div{
+ color: blue;
+ text-align: center;
+}
+.topp{
+  background-color: black;
+  color: white;
+}
+.h1login{
+  color: seagreen;
+  font-size:3em ;
+}
+.pass{
+  color: black;
+  font-family: 'Segoe UI', Tahoma,Verdana, sans-serif;
+}
+.button{
+  background-color: wheat;
+}
